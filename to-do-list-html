@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <script src="https://kit.fontawesome.com/4940cebf37.js" crossorigin="anonymous"></script>
+    <title>to do list</title>
+  </head>
+  <body>
+    
+    <div class="container">
+      <input type="placeholder" id="input" placeholder="press enter to add task">
+      <ul></ul>
+    </div>
+ </html>
